@@ -75,7 +75,7 @@ int inputData(string v)
 }
 ```
 
-![sss](https://raw.githubusercontent.com/Amirul29/praktikum6/master/latihan1/1.png)
+![sss](https://raw.githubusercontent.com/fikryds\praktikum6/master/latihan1/1.png)
 ![flow](
 
 
@@ -113,7 +113,7 @@ cout << "Nilai 2 : " << b << endl;
 return 0;
 }
 ```
-![ss2](https://raw.githubusercontent.com/Amirul29/praktikum6/master/latihan2/21.png)
+![ss2](https://raw.githubusercontent.com/fikryds/praktikum6/master/latihan2/21.png)
 
 ##latihan2.2
 
