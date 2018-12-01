@@ -76,7 +76,6 @@ int inputData(string v)
 ```
 
 ![sss](https://raw.githubusercontent.com/fikryds\praktikum6/master/latihan1/1.png)
-![flow](
 
 
 ##latihan2.1
@@ -150,4 +149,4 @@ main(){
 }
 ```
 ![ss2](https://raw.githubusercontent.com/Fikryds/praktikum6/master/latihan2/22.png)
-![flow](
+
